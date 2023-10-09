@@ -1,0 +1,1 @@
+/home/motora/UFES/LabES/sca_amaes_web/styles/icons/icons.css
